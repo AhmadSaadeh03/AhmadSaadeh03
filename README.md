@@ -1,14 +1,5 @@
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ahmadsaadeh03/ahmadsaadeh03/main/assets/banner-dark.png" alt="Profile Banner" width="100%" />
-</p>
-
-<h1 align="center">
-  <span style="color:#F7C873;">Hi, I'm Ahmad Saadeh 👋</span>
-</h1>
-<h3 align="center">
-  <span style="color:#8BF5FA;">Passionate Software Developer | Open Source Enthusiast</span>
-</h3>
+<h1 align="center" style="color:#F7C873;">Hi, I'm Ahmad Saadeh 👋</h1>
+<h3 align="center" style="color:#8BF5FA;">Software Engineer | Open Source Enthusiast</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%20%7C%20C++-212121?style=for-the-badge&logo=c&logoColor=white" />
@@ -19,16 +10,15 @@
 
 ---
 
-<!-- Glowing divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ahmadsaadeh03/ahmadsaadeh03/main/assets/glow-divider.svg" alt="Divider" width="60%" />
+  <img src="https://raw.githubusercontent.com/ahmadsaadeh03/ahmadsaadeh03/main/assets/glow-divider.svg" width="60%" />
 </p>
 
 ## 🧑‍💻 About Me
 
 ```diff
-- 🎓 Software Engineer based in Jordan
-+ 💡 Always exploring new technologies and improving my skills
+- 🎓 Software Engineer | Based in Jordan
++ 💡 Always exploring new technologies and learning
 ! 🚀 Contributor to open source, coding competitions, and hackathons
 ```
 
@@ -71,9 +61,4 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8BF5FA&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+space!;Check+out+my+projects+below.;Let's+connect+%F0%9F%91%8B" />
-</p>
-
-<!-- Footer glow -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ahmadsaadeh03/ahmadsaadeh03/main/assets/footer-glow.svg" width="100%" />
 </p>

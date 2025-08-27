@@ -10,9 +10,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ahmadsaadeh03/ahmadsaadeh03/main/assets/glow-divider.svg" width="60%" />
-</p>
 
 ## 🧑‍💻 About Me
 

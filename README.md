@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Ahmad Saadeh
 
-<!--
-**AhmadSaadeh03/AhmadSaadeh03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm passionate about software development, open source, and solving real-world problems with code. I enjoy learning new technologies and contributing to collaborative projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- Languages: C,C++,Java
+- Tools: Git, Docker, VS Code, GitHub Actions
+
+## 📈 GitHub Stats
+![AhmadSaadeh03's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadSaadeh03&show_icons=true&hide_title=true)
+
+
+## 📫 How to Reach Me
+- Email: ahmadsaadeh023@gmail.com
+- LinkedIn:https://www.linkedin.com/in/ahmad-saadeh-8049a8306/
+
+## 💡 Fun Fact
+I love tackling coding challenges and am always up for a hackathon!
+
+---
+
+Thanks for visiting my profile! Feel free to check out my repositories and connect with me.
